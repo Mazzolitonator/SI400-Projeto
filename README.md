@@ -22,6 +22,6 @@
 8. Formato de Disponibilização dos Dados:
    * Os dados vem em três opções de formatos disponibilizados, sendo o formato CSV, XML e EXCEL.
 9. Exemplo de Consulta:
-   * 
+   * Consultar quantos por cento de energia renovável o Brasil usa em relação a energia total utilizada pelo mesmo, ao longo dos anos.
 10. Apresentação Gráfica do Resultado:
-   * 
+   * ![Graphs](https://gyazo.com/53f8b98f264c87a89448fb676b42c316)
