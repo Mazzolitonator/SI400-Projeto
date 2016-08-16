@@ -18,7 +18,7 @@
 6. Descrição dos Dados:
    * Dados do Tipo **XML**
 7. Volume de Dados:
-   *Há uma variação entre 60,9 KB e 185 KB dependendo do formato escolhido.
+   * Há uma variação entre 60,9 KB e 185 KB dependendo do formato escolhido.
 8. Formato de Disponibilização dos Dados:
    * Os dados vem em três opções de formatos disponibilizados, sendo o formato CSV, XML e EXCEL.
 9. Exemplo de Consulta:
