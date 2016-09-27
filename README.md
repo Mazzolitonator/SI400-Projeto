@@ -16,11 +16,11 @@
 5. Fonte de Dados:
    * http://data.worldbank.org/indicator/EG.FEC.RNEW.ZS
 6. Descrição dos Dados:
-   * Dados do Tipo **XML**
+   * Dados do Tipo **JSON**
 7. Volume de Dados:
    * Há uma variação entre 60,9 KB e 185 KB dependendo do formato escolhido.
 8. Formato de Disponibilização dos Dados:
-   * Os dados vem em três opções de formatos disponibilizados, sendo o formato CSV, XML e EXCEL.
+   * Os dados vem em três opções de formatos disponibilizados, sendo o formato CSV, XML e JSON.
 9. Exemplo de Consulta:
    * Consultar quantos por cento de energia renovável o Brasil usa em relação a energia total utilizada pelo mesmo, ao longo dos anos.
 10. Apresentação Gráfica do Resultado:
